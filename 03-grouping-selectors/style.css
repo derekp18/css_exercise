@@ -1,0 +1,13 @@
+.inverted{
+    background-color: black;
+    color: white;
+}
+
+.fancy{
+    background-color: yellow;
+}
+
+button{
+    font-size: 28px;
+    font-family: helvetica,times New Roman,sans-serif;
+}
